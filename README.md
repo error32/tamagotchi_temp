@@ -1,0 +1,2 @@
+# tamagotchi
+School project, Tamagotchi
